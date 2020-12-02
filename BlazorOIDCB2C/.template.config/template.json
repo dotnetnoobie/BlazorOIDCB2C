@@ -1,0 +1,22 @@
+{
+  "author": ".net noobie",
+  "classifications": [ "Web", "Blazor", "WebAssembly", "B2C", "OIDC" ],
+  "name": "Blazor B2C OIDC",
+  "identity": "DotNetNoobie.Blazor.B2C.OIDC",
+  "shortName": "blazorb2coidc",
+  "tags": {
+    "language": "C#"
+  },
+  "sourceName": "BlazorOIDCB2C",
+  "preferNameDirectory": false,
+  "sources": [
+    {
+      "exclude": [
+        ".template.config/**",
+        ".vs/**",
+        "**/bin/**",
+        "**/obj/**"
+      ]
+    }
+  ]
+}
